@@ -21,7 +21,7 @@ AI가 알아서 돌렸습니다. 저는 그냥 구경만 했습니다.
 없습니다. 알아서 하세요.  
 원본 버너랑 비슷하게 쓰면 됩니다.  
 (근데 버블챗이라 좀 다를 수도 있음)
-
+[사용법](https://zerosquare.me/hyun120207/85515)
 https://github.com/hyun120207-alt/bubblechat-burner/raw/refs/heads/main/bubble-burn.user.js
 
 ---
