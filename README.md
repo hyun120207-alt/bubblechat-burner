@@ -17,20 +17,29 @@ AI가 알아서 돌렸습니다. 저는 그냥 구경만 했습니다.
 ---
 
 ## ⚙️ 설치
-
-없습니다. 알아서 하세요.  
+### ~안알랴줌~.  
 원본 버너랑 비슷하게 쓰면 됩니다.  
 (근데 버블챗이라 좀 다를 수도 있음)
+
 [사용법](https://zerosquare.me/hyun120207/85515)
-https://github.com/hyun120207-alt/bubblechat-burner/raw/refs/heads/main/bubble-burn.user.js
 
 ---
 
-## 🧩 기능
+## 🧠 기능
 
 - 채팅 내용을 외부 LLM한테 던져서 요약시킵니다.  
 - 잘 되면 좋고, 안 되면 그럴 수도 있죠.  
 - 사실 뭘 한 건지 저도 모르겠습니다.
+- *v0.1.0-alpha 기준으로* 버블챗 소설모드에서 돌아가기만 합니다.
+
+---
+
+## 🧩 버전 정보
+
+- **버전:** `v0.1.0-alpha`
+- **상태:** 간신히 작동함 (barely works)
+- **기대 효과:** 버블챗에서도 버너처럼 요약이 돌아가는 그런걸 기대
+- **테스트 환경:** 엣지, 버블챗, 약간의 인내심
 
 ---
 
@@ -50,7 +59,18 @@ to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-원본: [Crystallized Chasm Repository](https://github.com/milkyway0308/crystallized-chasm)
+원본 프로젝트: [Crystallized Chasm](https://github.com/milkyway0308/crystallized-chasm)  
+모든 저작권은 **Team IGX**에 있습니다.
+
+---
+
+## 🧍‍♂️ 책임?
+
+없습니다.  
+그냥 AI한테 맡겼습니다.  
+고장 나면 버블챗 탓도, 제 탓도 아닙니다.  
+근데 고치고 싶으면 PR 넣어보세요.  
+제가 볼지는 모르겠지만요.
 
 ---
 
@@ -65,7 +85,8 @@ copies or substantial portions of the Software.
 
 ## 🙋‍♂️ 제작자
 
-- **Original Project:** Team IGX  
-- **Port / Execution:** [hyun120207-alt], 2025  
+- **원본:** Team IGX  
+- **포트 & 방관자:** [hyun120207-alt] (2025)  
+- **작업 내용:** 버너를 버블챗으로 옮기고 AI가 알아서 굴림
 
 
