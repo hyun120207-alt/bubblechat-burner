@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name        bubble chat Burner (버블챗 버너너)
-// @namespace   https://github.com/chasm-js
-// @version     onlybubble-BURN-v1.7.0
+// @name        bubble chat Burner (버블챗 버너)
+// @namespace   https://github.com/hyun120207-alt
+// @version     bubble-burn-v0.1.0-alpha
 // @description 버블챗 캐릭터 채팅 요약 및 반영. 해당 유저 스크립트는 결정화된 캐즘을 기반으로 작성되었습니다. 버블챗에 맞게 수정되었습니다.  
-// @author      chasm-js, milkyway0308
+// @author      chasm-js, milkyway0308, hyun120207-alt
 // @match       https://bubblechat.ai/*
 // @grant       GM.xmlHttpRequest
 // @grant       GM_addStyle
 // @connect     *
-// @downloadURL https://github.com/milkyway0308/crystallized-chasm/raw/refs/heads/main/burner.user.js
-// @updateURL   https://github.com/milkyway0308/crystallized-chasm/raw/refs/heads/main/burner.user.js
+// @downloadURL https://github.com/hyun120207-alt/bubblechat-burner/raw/refs/heads/main/bubble-burn.js
+// @updateURL   https://github.com/hyun120207-alt/bubblechat-burner/raw/refs/heads/main/bubble-burn.js
 // ==/UserScript==
 
 GM_addStyle(
