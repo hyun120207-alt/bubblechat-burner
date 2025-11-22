@@ -111,8 +111,8 @@ GM_addStyle(
       .join("\n");
     throw (
       (prompt(
-        "구동 중 예상치 못한 오류가 발생하였습니다. 다음 내용을 복사하여 결정화 캐즘 프로젝트 게시물, 혹은 IGX 지원 센터에 문의해주세요.",
-        `[Chasm Crystallized Burner+ Error]\n${a}\n\n오류 내용을 복사하여 https://discord.gg/hEb44bUFgu 에 문의해주세요.`
+        "구동 중 예상치 못한 오류가 발생하였습니다. 다음 내용을 복사하여 제미나이에 물어보거나,
+        `[Chasm Crystallized Burner+ Error]\n${a}\n\n오류 내용을 복사하여 https://open.kakao.com/o/sT5P7Glh 에 문의해주세요.`
       ),
       n)
     );
