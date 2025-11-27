@@ -91,3 +91,11 @@ copies or substantial portions of the Software.
 - **작업 내용:** 버너를 버블챗으로 옮기고 AI가 알아서 굴림
 
 
+---
+
+# 부부챠 다운로더
+누가 버블챗 망할거 같대서 급하게 만들어 왔어요
+ [크랙 체팅 다운로더](https://github.com/kktcct001/crack_chat_downloader) 포크판이에요
+
+
+ 
